@@ -43,7 +43,7 @@ Feel free to reach out if you have any questions, suggestions, or just want to c
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manoj-895&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
 <!-- Additional badges or sections can be added as per your preference -->
 
